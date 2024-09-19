@@ -16,6 +16,9 @@ Throughout my studies, I've gained experience in various frontend and backend te
   - Python
   - MySQL
   - PostgreSQL
+  - Node.js
+  - Django
+  - Laravel
 
 ## 🚀 Projects
 
