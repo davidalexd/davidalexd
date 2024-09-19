@@ -24,5 +24,5 @@ I have worked on both academic and personal projects, developing modern and scal
 ## 📫 Contact
 
 - **Email**: [u202222942@upc.edu.pe](mailto:u202222942@upc.edu.pe)
-- 
+  
 Thank you for visiting my profile!
